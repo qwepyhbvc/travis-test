@@ -1,0 +1,3 @@
+/home/wowtt/wowtt/workspace/travis-test/_build/CMakeFiles/travis_test.dir
+/home/wowtt/wowtt/workspace/travis-test/_build/CMakeFiles/edit_cache.dir
+/home/wowtt/wowtt/workspace/travis-test/_build/CMakeFiles/rebuild_cache.dir
